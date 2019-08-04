@@ -14,7 +14,7 @@ allprojects {
 ```
 implementation 'com.github.cattcal:TitleBar:v1.0'
 ```
-#### XML实例
+#### XML示例
 ```
 <cn.hujw.titlebar.library.TitleBar
         android:id="@+id/mTitleBar"
