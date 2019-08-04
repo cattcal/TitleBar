@@ -1,6 +1,16 @@
 # TitleBar
 Android中通用的标题栏
-#### 引入
+#### 添加依赖
+1. 在Project中的build.gradle添加仓库地址
+```
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+2. 在app:中的build.gradle添加框架依赖
 ```
 implementation 'com.github.cattcal:TitleBar:v1.0'
 ```
