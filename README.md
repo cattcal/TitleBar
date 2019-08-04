@@ -44,3 +44,23 @@ mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
 #### 所有属性
 |name|format|description|
 |:-|:-:|-:|
+|title|string|标题|
+|titleColor|string|标题颜色|
+|titleSize|dimension|标题大小|
+|leftTitle|string|左标题|
+|leftIcon|reference|左图标（leftIcon优先于backButton）|
+|leftColor|string|左标题颜色|
+|leftSize|dimension|左标题大小|
+|leftBackground|reference/color|左标题背景|
+|rightTitle|string|右标题|
+|rightIcon|reference|右图标|
+|rightColor|string|右标题颜色|
+|rightSize|dimension|右标题大小|
+|rightBackground|reference/color|右标题背景|
+|lineVisible|boolean|分割线|
+|lineColor|string|分割线颜色|
+|lineSize|dimension|分割线大小|
+
+
+
+
