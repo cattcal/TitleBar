@@ -49,7 +49,6 @@ mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
 |titleSize|dimension|标题大小|
 |leftTitle|string|左标题|
 |leftIcon|reference|左图标（leftIcon优先于backButton）|
-|backButton|boolean|返回按钮（默认打开）|
 |leftColor|string|左标题颜色|
 |leftSize|dimension|左标题大小|
 |leftBackground|reference/color|左标题背景|
@@ -61,7 +60,7 @@ mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
 |lineVisible|boolean|分割线|
 |lineColor|string|分割线颜色|
 |lineSize|dimension|分割线大小|
-
-
+#### 尾语
+话不多说，喜欢的话，点个star
 
 
