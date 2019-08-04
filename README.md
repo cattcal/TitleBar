@@ -4,14 +4,14 @@ Android中通用的标题栏
 ```
 implementation 'com.github.cattcal:TitleBar:v1.0'
 ```
-###### XML实例
+### XML实例
 ```
 <cn.hujw.titlebar.library.TitleBar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:title="标题栏" />
 ```
-###### 设置监听事件
+### 设置监听事件
 ```
 mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
             @Override
@@ -30,7 +30,7 @@ mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
             }
         });
 ```
-###### 所有属性
+### 所有属性
 ```
 <declare-styleable name="TitleBar">
         <!-- 整体样式 -->
