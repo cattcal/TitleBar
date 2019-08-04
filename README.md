@@ -49,6 +49,7 @@ mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
 |titleSize|dimension|标题大小|
 |leftTitle|string|左标题|
 |leftIcon|reference|左图标（leftIcon优先于backButton）|
+|backButton|boolean|返回按钮（默认打开）|
 |leftColor|string|左标题颜色|
 |leftSize|dimension|左标题大小|
 |leftBackground|reference/color|左标题背景|
