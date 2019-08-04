@@ -43,3 +43,4 @@ mTitleBar.setOnTitleBarListener(new OnTitleBarListener() {
 ```
 #### 所有属性
 |name|format|description|
+|:-|:-:|-:|
